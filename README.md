@@ -1,2 +1,2 @@
 # sfi-cet-static-web
-hello
+# sfi-cet-static-web
